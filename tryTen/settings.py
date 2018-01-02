@@ -16,7 +16,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 EMAIL_HOST ='smptp.gmail.com'
-EMAIL_HOST_USER = 'your gmail email'
+EMAIL_HOST_USER = 'taruneshkumar1234@gmail.com'
 EMAIL_HOST_PASSWORD = 'your gmail password'
 EMAIL_PORT = '587'
 EMAIL_USE_TLS = True
